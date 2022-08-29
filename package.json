@@ -1,0 +1,22 @@
+{
+  "name": "programacion-iii",
+  "version": "1.0.0",
+  "description": "Material de programacion III",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toninence/programacion-III.git"
+  },
+  "author": "Reichert Ferreyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toninence/programacion-III/issues"
+  },
+  "homepage": "https://github.com/toninence/programacion-III#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
